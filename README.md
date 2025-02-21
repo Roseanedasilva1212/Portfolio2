@@ -1,4 +1,5 @@
 
+
 # Portfólio Pessoal
 
 Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para mostrar minhas habilidades e projetos usando as tecnologias de HTML e CSS.
@@ -17,4 +18,5 @@ Este projeto foi criado com o objetivo de apresentar meus projetos, habilidades 
 
 - Email: roseane.1212@hotmail.com
 - LinkedIn: [Seu Nome](https://www.linkedin.com/in/roseane-silva-0b150114b/)![Captura de tela 2025-02-21 023708](https://github.com/user-attachments/assets/9a19536d-8d2a-49b6-a944-0291aa819b80)
+- https://github.com/user-attachments/assets/5d0dacd6-fe9d-45b5-b6c4-6f949c5ad90b
 
